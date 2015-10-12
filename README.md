@@ -1,6 +1,8 @@
 # Hadoop-WordCount
 This is a simple word count app. 
 Run under Hadoop 2.7.1
+The building IDE is NetBeans, the pom is for Maven set
+
 Read the source database which we use 50 wiki page here. Then count the follow four words : "education", "politics", "sports", "agriculture" appear times.
 
 While using in hadoop ec2 , the command code seems like:
